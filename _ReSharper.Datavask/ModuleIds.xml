@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="92924E73-4616-4510-9BA9-73345351101E" ModuleId="Application" />
+  <Module PersistentId="31D8F032-EA4A-4067-982E-FC2C5FDA4EEC" ModuleId="Datawash" />
+  <Module PersistentId="9E928744-61D4-48E5-9A85-85E930350329" ModuleId="DatawashLibrary" />
+  <Module PersistentId="1733A666-20F2-4F8E-8525-B0DFDA083CF1" ModuleId="LinqToFlatFile" />
+  <Module PersistentId="0E70E053-EF0C-4301-AED2-7F41D4508EE5" ModuleId="UnitTests" />
+</Modules>

@@ -1,0 +1,7 @@
+C:\Prosjekter\Datavask\DatawashLibrary\bin\Debug\DatawashLibrary.dll
+C:\Prosjekter\Datavask\DatawashLibrary\bin\Debug\DatawashLibrary.pdb
+C:\Prosjekter\Datavask\DatawashLibrary\bin\Debug\LinqToFlatFile.dll
+C:\Prosjekter\Datavask\DatawashLibrary\bin\Debug\LinqToFlatFile.pdb
+C:\Prosjekter\Datavask\DatawashLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Prosjekter\Datavask\DatawashLibrary\obj\Debug\DatawashLibrary.dll
+C:\Prosjekter\Datavask\DatawashLibrary\obj\Debug\DatawashLibrary.pdb

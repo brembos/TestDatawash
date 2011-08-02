@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="0E70E053-EF0C-4301-AED2-7F41D4508EE5" ModuleId="UnitTests" />
+  <Module PersistentId="1733A666-20F2-4F8E-8525-B0DFDA083CF1" ModuleId="LinqToFlatFile" />
+</Modules>

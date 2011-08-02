@@ -1,0 +1,37 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="0E70E053-EF0C-4301-AED2-7F41D4508EE5/d:FixedFiles/f:FixedFileWriterTests.cs" caret="920" fromTop="22" />
+      <File id="1733A666-20F2-4F8E-8525-B0DFDA083CF1/f:FixedFileWriter.cs" caret="445" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="nUnit" Id="UnitTests.FixedFiles.FixedFileWriterTests" type="NUnitTestFixtureElement" Project="0E70E053-EF0C-4301-AED2-7F41D4508EE5" />
+        <UnitTestElement Provider="nUnit" Id="UnitTests.FixedFiles.FixedFileWriterTests.EncodingEntityWithoutAttributeFailes" ParentId="UnitTests.FixedFiles.FixedFileWriterTests" type="NUnitTestElement" TypeName="UnitTests.FixedFiles.FixedFileWriterTests" MethodName="EncodingEntityWithoutAttributeFailes" Project="0E70E053-EF0C-4301-AED2-7F41D4508EE5" />
+        <UnitTestElement Provider="nUnit" Id="UnitTests.FixedFiles.FixedFileWriterTests.EncodingPersonToFixedStringPasses" ParentId="UnitTests.FixedFiles.FixedFileWriterTests" type="NUnitTestElement" TypeName="UnitTests.FixedFiles.FixedFileWriterTests" MethodName="EncodingPersonToFixedStringPasses" Project="0E70E053-EF0C-4301-AED2-7F41D4508EE5" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+</Configuration>

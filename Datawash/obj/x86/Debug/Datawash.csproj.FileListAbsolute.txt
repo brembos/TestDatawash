@@ -1,0 +1,13 @@
+C:\Prosjekter\Datavask\Datawash\bin\Debug\Datawash.exe
+C:\Prosjekter\Datavask\Datawash\bin\Debug\Datawash.pdb
+C:\Prosjekter\Datavask\Datawash\bin\Debug\DatawashLibrary.dll
+C:\Prosjekter\Datavask\Datawash\bin\Debug\LinqToFlatFile.dll
+C:\Prosjekter\Datavask\Datawash\bin\Debug\DatawashLibrary.pdb
+C:\Prosjekter\Datavask\Datawash\bin\Debug\LinqToFlatFile.pdb
+C:\Prosjekter\Datavask\Datawash\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Prosjekter\Datavask\Datawash\obj\x86\Debug\Datawash.Form1.resources
+C:\Prosjekter\Datavask\Datawash\obj\x86\Debug\Datawash.Properties.Resources.resources
+C:\Prosjekter\Datavask\Datawash\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Prosjekter\Datavask\Datawash\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Prosjekter\Datavask\Datawash\obj\x86\Debug\Datawash.exe
+C:\Prosjekter\Datavask\Datawash\obj\x86\Debug\Datawash.pdb
