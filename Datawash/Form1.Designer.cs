@@ -40,7 +40,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(403, 20);
             this.textBox1.TabIndex = 0;
-            this.textBox1.Text = "C:\\Datavask\\manntall-valg2007-shrink.txt";
+            this.textBox1.Text = "C:\\Datavask\\manntall-testkommuner_utenDIFI.txt";
             // 
             // button1
             // 
@@ -66,7 +66,7 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(403, 20);
             this.textBox3.TabIndex = 3;
-            this.textBox3.Text = "C:\\Datavask\\Result.txt";
+            this.textBox3.Text = "C:\\Datavask\\manntall-testkommuner_utenDIFI_result.txt";
             // 
             // Form1
             // 

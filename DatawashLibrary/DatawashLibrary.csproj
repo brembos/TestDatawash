@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Criteria.cs" />
+    <Compile Include="LocationCounter.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Washer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

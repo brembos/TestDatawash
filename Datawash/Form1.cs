@@ -20,14 +20,19 @@ namespace Datawash
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var people = new FileStream(textBox1.Text, FileMode.Open);
-            var criterias = new FileStream(textBox2.Text, FileMode.Open);
-
-            var washer = new Washer(people, criterias);
-            var result = washer.Clean();
-            using (var file = File.OpenWrite(textBox3.Text))
+            button1.Enabled = false;
+            using (var people = new FileStream(textBox1.Text, FileMode.Open))
             {
-                result.CopyTo(file);
+                using (var criterias = new FileStream(textBox2.Text, FileMode.Open))
+                {
+
+                    var washer = new Washer(people, criterias);
+                    using (var file = File.OpenWrite(textBox3.Text))
+                    {
+                        washer.CleanTo(file);
+                    }
+                    button1.Enabled = true;
+                }
             }
         }
     }
