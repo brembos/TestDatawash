@@ -26,9 +26,9 @@ namespace DatawashLibrary
 
         public void CleanTo(FileStream file)
         {
-            Debug.WriteLine("CleanTo");
             var encoding = Encoding.GetEncoding(1252);
             var personDecoder = new FixedFileReader<Person>();
+            personDecoder.TrimInput = TrimInputMode.NoTrim;
             var writer = new FixedFileWriter<Person>();
             var streamWriter = new StreamWriter(file);
             using (var reader = new StreamReader(peopleStream, encoding))
@@ -39,6 +39,7 @@ namespace DatawashLibrary
                 while ((line = reader.ReadLine()) != null)
                 {
                     var person = personDecoder.ReadLine(line);
+                    Debug.WriteLine("");
                     Debug.Write(i++);
                     if (personnummer.Contains(person.Personnr))
                     {
@@ -64,7 +65,6 @@ namespace DatawashLibrary
                             Debug.Write(" " + key + " " + person.Personnr + "(" + pnrCounter + ")");
                         }
                     }
-                    Debug.WriteLine("");
                     streamWriter.WriteLine(writer.MakeLine(person));
 
                 }
